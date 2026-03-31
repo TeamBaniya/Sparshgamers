@@ -4,10 +4,10 @@
 
 ![Profile Banner](https://img.shields.io/badge/Full%20Stack-Developer-blueviolet?style=for-the-badge)
 
-[![GitHub](https://img.shields.io/badge/GitHub-nub--coders-blue?logo=github&style=flat-square)](https://github.com/TeamBaniya)
-[![YouTube](https://img.shields.io/badge/YouTube-nub--coder-red?logo=youtube&style=flat-square)](https://youtube.com/@baniyabots)
-[![Telegram](https://img.shields.io/badge/Telegram-nub__coder__s-blue?logo=telegram&style=flat-square)](https://t.me/oye_Sparsh)
-[![Email](https://img.shields.io/badge/Email-dev%40nubcoder.com-orange?logo=gmail&style=flat-square)](mailto:sparshshivhare2007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sparsh--baniya-blue?logo=github&style=flat-square)](https://github.com/TeamBaniya)
+[![YouTube](https://img.shields.io/badge/YouTube-sparsh--baniya-red?logo=youtube&style=flat-square)](https://youtube.com/@baniyabots)
+[![Telegram](https://img.shields.io/badge/Telegram-oye__sparsh-blue?logo=telegram&style=flat-square)](https://t.me/oye_Sparsh)
+[![Email](https://img.shields.io/badge/Email-dev%40sparshbaniya.com-orange?logo=gmail&style=flat-square)](mailto:sparshshivhare2007@gmail.com)
 
 </div>
 
