@@ -47,36 +47,6 @@ I'm a passionate Full Stack Developer with 4 years of experience creating modern
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 🚀 Featured Projects
-
-### Docker PaaS - Telegram Mini App
-A powerful Telegram Mini App that simplifies Docker container deployment and management with intelligent GitHub repository integration and real-time monitoring.
-
-**Technologies**: React, TypeScript, Express.js, MongoDB, Docker API, Telegram Bot API, Framer Motion  
-**Features**:
-- Direct deployment from GitHub repositories
-- Real-time container monitoring and log viewing
-- Usage-based billing with transparent credit system
-- WebSocket integration for live updates
-- Complete container lifecycle management
-
-
----
-
-
-### NubMail - Email Management System
-A lightweight, self-hosted email management system with custom domain support, built-in SMTP server, and comprehensive email operations.
-
-**Technologies**: Next.js 15, PostgreSQL, Node.js, Microsoft Graph API, shadcn/ui  
-**Features**:
-- Custom domain management with DNS verification
-- Built-in SMTP sender and receiver
-- API key-based programmatic email sending
-- DKIM auto-generation for email authentication
-- External mailbox integration (Outlook/Microsoft Graph)
-- JWT authentication with role-based access
-- Docker deployment with nginx-proxy integration
-
 
 ---
 
